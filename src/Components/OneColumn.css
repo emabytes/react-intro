@@ -1,0 +1,16 @@
+.column {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    margin-bottom: 10vh;
+}
+.column img {
+    width: 100%;
+    margin-bottom: 5vh;
+}
+
+.column p {
+    font-size: 1.2em;
+    width: 70%;
+}

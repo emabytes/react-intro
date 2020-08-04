@@ -1,0 +1,12 @@
+.btn {
+    text-decoration: none;
+    padding: 10px 20px;
+    font-size: 1.2em;
+    border-radius: 3px;
+    text-transform: uppercase;
+    background: rgb(151, 210, 214);
+    color: white;
+    border: none;
+    max-width: 100px;
+    margin: 1vh 0;
+  }
